@@ -1,7 +1,16 @@
 #profile-title: Tel : (@Bird_Xray🐦) Trojan & Vless !
 #profile-update-interval: 1
 
-
+vless://4ffdc80c-65f3-4684-bdb5-951d27867f40@37.156.45.179:1210?security=reality&sni=ubuntu.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%A8%F0%9F%87%AD%20CH-37.156.45.179:1210
+vless://4ffdc80c-65f3-4684-bdb5-951d27867f40@37.156.45.179:2030?security=reality&sni=refersion.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%A8%F0%9F%87%AD%20CH-37.156.45.179:2030
+vless://4ffdc80c-65f3-4684-bdb5-951d27867f40@135.125.244.42:1210?security=reality&sni=ubuntu.com&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%AB%F0%9F%87%B7%20FR-135.125.244.42:1210
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.71:443?security=reality&sni=www.cloudflare.com&fp=chrome&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-89.187.169.71:443
+vless://e504c905-5201-4bfa-9471-df414486764e@152.42.148.29:443?security=reality&sni=sourceforge.net&fp=firefox&pbk=dm4LXLsgssC0eUZUFcLyjFR2pkLrMU_Wb1OufHJnBEg&sid=9af649c306eb98&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%B3%F0%9F%87%B1%20NL-152.42.148.29:443
+vless://0c03da40-77ff-4973-8775-f360a9426cb1@109.207.172.239:8443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=wSnnqxhVLBqWEcBvcPNiFVF5qSEwYgL7_xsuqjZ9Vyc&sid=d9668118bbbe1a0f&type=grpc&serviceName=JoinBadeChannel@antimeli&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%B3%F0%9F%87%B1%20NL-109.207.172.239:8443
+vless://dab8ab46-5071-4d95-ac9b-bb469d6599fc@128.140.35.236:50713?security=reality&sni=nobitex.ir&fp=firefox&pbk=03oIukhEmNzMAGZWqcNLAHHjcVX0jLqRSa3ocMuskQY&sid=88417bc4&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-128.140.35.236:50713
+vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=c3R5_lORnQd1X3A2E0ulHJn396G2X_ZYIs66ldEVQWI&sid=28f58957&type=grpc&encryption=none#%F0%9F%94%92%20VL-GRPC-RLT%20%F0%9F%87%AE%F0%9F%87%B9%20IT-147.45.51.16:2096
+vless://738fbb8d-bd2d-402a-b7bc-e63ad84fb107@188.34.160.30:1620?security=reality&sni=refersion.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-188.34.160.30:1620
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.163.203:80?security=reality&sni=zula.ir&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.233.163.203:80
 vless://a54fcf91-c5a8-4c8e-a80f-050816f5ad3a@116.203.201.23:9595?security=&type=tcp&headerType=http&host=fast.com&encryption=none
 vless://a54fcf91-c5a8-4c8e-a80f-050816f5ad3a@116.203.201.23:9595?security=&type=tcp&headerType=http&host=fast.com&encryption=none
 vless://3d5115e5-61c5-4a15-a616-6f2734914797@151.101.64.155:80?security=&type=ws&path=/lW0tvTq4oSbHyKeRM?ed%3D2560&host=Configt-Channel.Dev&encryption=none
