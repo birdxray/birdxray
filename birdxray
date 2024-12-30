@@ -9,3 +9,6 @@ vless://fc44fe6a-f083-4591-9c03-f8d61dc3907f@104.26.0.117:2083?security=tls&sni=
 vless://fc44fe6a-f083-4591-9c03-f8d61dc3907f@188.114.96.6:443?security=tls&sni=argo14s.moooiooom.us.kg&alpn=h3&fp=random&type=ws&path=/vless?ed%3D2048&host=argo14s.moooiooom.us.kg&encryption=none#@Bird_Xray%20%F0%9F%87%B8%F0%9F%87%AC%201
 vless://fc44fe6a-f083-4591-9c03-f8d61dc3907f@104.26.0.117:443?security=tls&sni=argo14s.moooiooom.us.kg&alpn=h3&fp=random&type=ws&path=/vless?ed%3D2048&host=argo14s.moooiooom.us.kg&encryption=none#@Bird_Xray%20%F0%9F%87%B8%F0%9F%87%AC%202
 vless://f6a28dc3-9632-487d-a3f1-ebc19e9726b9@188.114.97.6:443?security=tls&sni=vless.niceai.us.kg&alpn=h3&fp=random&type=ws&path=/?ed%3D2560&host=vless.niceai.us.kg&encryption=none#@Bird_Xray%20%F0%9F%87%BA%F0%9F%87%B8
+
+vmess://eyJhZGQiOiJ3d3cuYWV0di5jb20iLCJhaWQiOiIwIiwiaG9zdCI6ImFtZC5hbCIsImlkIjoiYmViN2QwOTgtNDhiYS00YmU4LWE0N2EtNzU4YmYzYzQ3MGI4IiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJTQ1AtTlNDIDAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://YWVzLTI1Ni1nY206dW9YY3RJUTRMODl5a1Vad24xN1BuM0N6TkROY1pTUmFiQ2dONWh5TlY3SlE=@tw.ssrxray.click:36918#SCP-NSC%2005
