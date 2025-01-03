@@ -10,3 +10,14 @@ vless://f6a28dc3-9632-487d-a3f1-ebc19e9726b9@188.114.97.6:443?security=tls&sni=v
 vmess://eyJhZGQiOiIxMDQuMTguMTIuMjI5IiwiYWlkIjoiMCIsImhvc3QiOiJtb2Rlcm4tc2F1ZGktbWlycm9yLWNhcnMudHJ5Y2xvdWRmbGFyZS5jb20iLCJpZCI6ImU0NThiMjkyLTQxMzYtNDUxNC04YmI5LTljNzgyN2M0ZjI2OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9lNDU4YjI5Mi00MTM2LTQ1MTQtOGJiOS05Yzc4MjdjNGYyNjktdm0iLCJwb3J0IjoiODQ0MyIsInBzIjoidm0tYXJnbyIsInNjeSI6ImF1dG8iLCJzbmkiOiJtb2Rlcm4tc2F1ZGktbWlycm9yLWNhcnMudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 trojan://666666@188.114.97.6:443?security=tls&sni=trogan.niceai.us.kg&alpn=h3&fp=randomized&type=ws&path=/?ed%3D2560&host=trogan.niceai.us.kg#Vip%20Trojan
 ss://YWVzLTI1Ni1nY206dW9YY3RJUTRMODl5a1Vad24xN1BuM0N6TkROY1pTUmFiQ2dONWh5TlY3SlE=@1.162.51.224:36918#SCP-NSC%2005
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.136:2198?security=&type=tcp&encryption=none#@bird_Xray
+vless://a01634d7-4070-5586-970e-bdd5e4d17b93@45.89.55.188:8880?security=&type=grpc&serviceName=vless-grpc&encryption=none#@bird_Xray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTi13c2QyalpPeHZzNTJCQ2tKYnpB@89.23.108.217:5555#@bird_Xray
+hy2://c76f08e20fb6368b@150.241.77.182:11122?obfs=salamander&obfs-password=64da92df31fc63c1&insecure=1&sni=www.google.com#@bird_Xray
+vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?security=reality&sni=ftp.debian.org&fp=random&pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&sid=10f1&type=tcp&encryption=none#@bird_Xray
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.113.156:2198?security=&type=tcp&encryption=none#@bird_Xray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#@bird_Xray
+hy2://c76f08e20fb6368b@150.241.77.182:11122?obfs=salamander&obfs-password=64da92df31fc63c1&insecure=1&sni=www.google.com#@bird_Xray
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=&type=tcp&encryption=none#@bird_Xray
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.181:2198?security=&type=tcp&encryption=none#@bird_Xray
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.234.247.205:2198?security=&type=tcp&encryption=none#@bird_Xray
