@@ -1,23 +1,18 @@
 #profile-title: Tel : (@Bird_Xray🐦) Trojan & Vless !
 #profile-update-interval: 1
 
-vmess://eyJhZGQiOiI0NS4xNDUuMTY3LjEwMyIsImFpZCI6IjAiLCJob3N0IjoiaW5kaWF2aWRlby5zYnMiLCJpZCI6IjQyNWM1ZTZlLTMwYTAtNDk4NC04YTEzLWVlNmY3MjA1MzE2MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+Ht0ZSLTQ1LjE0NS4xNjcuMTAzLTc2OTgiLCJzY3kiOiJhdXRvIiwic25pIjoiaW5kaWF2aWRlby5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMzAuNjEuMTU2LjEzMiIsImFpZCI6IjAiLCJob3N0IjoiZnJhbmtmdXJ0MDMuemdqb2suY29tIiwiaWQiOiI0ZjdjMjI0My1hMzhhLTQ2NzItOTgzYi1mMTM3OGFlZTBhN2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6pERSIsInNjeSI6ImF1dG8iLCJzbmkiOiJmcmFua2Z1cnQwMy56Z2pvay5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vless://fc44fe6a-f083-4591-9c03-f8d61dc3907f@188.114.96.6:443?security=tls&sni=argos15serv00.xxxxxxx.nyc.mn&alpn=h3&fp=random&type=ws&path=/vless?ed%3D2048&host=argos15serv00.xxxxxxx.nyc.mn&encryption=none#@Bird_Xray%20%F0%9F%87%AB%F0%9F%87%AE%201
-vless://fc44fe6a-f083-4591-9c03-f8d61dc3907f@104.26.0.117:2083?security=tls&sni=argos15serv00.xxxxxxx.nyc.mn&alpn=h3&fp=random&type=ws&path=/vless?ed%3D2048&host=argos15serv00.xxxxxxx.nyc.mn&encryption=none#@Bird_Xray%20%F0%9F%87%AB%F0%9F%87%AE%202
-vless://fc44fe6a-f083-4591-9c03-f8d61dc3907f@104.26.0.117:443?security=tls&sni=argo14s.moooiooom.us.kg&alpn=h3&fp=random&type=ws&path=/vless?ed%3D2048&host=argo14s.moooiooom.us.kg&encryption=none#@Bird_Xray%20%F0%9F%87%B8%F0%9F%87%AC%202
-vless://f6a28dc3-9632-487d-a3f1-ebc19e9726b9@188.114.97.6:443?security=tls&sni=vless.niceai.us.kg&alpn=h3&fp=random&type=ws&path=/?ed%3D2560&host=vless.niceai.us.kg&encryption=none#@Bird_Xray%20%F0%9F%87%BA%F0%9F%87%B8
-vmess://eyJhZGQiOiIxMDQuMTguMTIuMjI5IiwiYWlkIjoiMCIsImhvc3QiOiJtb2Rlcm4tc2F1ZGktbWlycm9yLWNhcnMudHJ5Y2xvdWRmbGFyZS5jb20iLCJpZCI6ImU0NThiMjkyLTQxMzYtNDUxNC04YmI5LTljNzgyN2M0ZjI2OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9lNDU4YjI5Mi00MTM2LTQ1MTQtOGJiOS05Yzc4MjdjNGYyNjktdm0iLCJwb3J0IjoiODQ0MyIsInBzIjoidm0tYXJnbyIsInNjeSI6ImF1dG8iLCJzbmkiOiJtb2Rlcm4tc2F1ZGktbWlycm9yLWNhcnMudHJ5Y2xvdWRmbGFyZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://2bd6bc19-efce-4a9c-8484-fa2b448c24f2@5.75.197.78:443?security=tls&sni=uciranir.xn--4oq36ed28d.online&allowInsecure=1&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-5.75.197.78:443
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@5.2.73.137:7000?security=tls&sni=a.mifeng.us.kg&fp=chrome&type=ws&path=/?ed%3D2560&host=a.mifeng.us.kg&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-5.2.73.137:7000
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@93.185.163.186:3001?security=tls&sni=a.mifeng.us.kg&type=ws&path=/?ed%3D2560&host=a.mifeng.us.kg&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%B3%F0%9F%87%B1%20NL-93.185.163.186:3001
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@159.69.22.135:1001?security=tls&sni=a.mifeng.us.kg&fp=chrome&type=ws&path=/?ed%3D2560&host=a.mifeng.us.kg&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%A9%F0%9F%87%AA%20DE-159.69.22.135:1001
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.87.11.56:8000?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%A8%F0%9F%87%BF%20CZ-194.87.11.56:8000
+vless://d603cba7-4ec4-4744-a1df-1fcbec323066@172.67.66.177:2083?security=tls&sni=GErMAnhp.Pages.DEV&alpn=http/1.1&type=ws&path=/9tE1lXpBmCQDi0ki/My4xMjYuMTU5LjEy&host=germanhp.pages.dev&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20NA-172.67.66.177:2083
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?security=tls&sni=a.mifeng.us.kg&type=ws&path=/?ed%3D2560&host=a.mifeng.us.kg&encryption=none#%F0%9F%94%92%20VL-WS-TLS%20%F0%9F%87%AA%F0%9F%87%B8%20ES-94.250.246.200:8080
+trojan://telegram-id-privatevpns@18.175.41.6:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AC%F0%9F%87%A7%20GB-18.175.41.6:22222
+
 trojan://666666@188.114.97.6:443?security=tls&sni=trogan.niceai.us.kg&alpn=h3&fp=randomized&type=ws&path=/?ed%3D2560&host=trogan.niceai.us.kg#Vip%20Trojan
-ss://YWVzLTI1Ni1nY206dW9YY3RJUTRMODl5a1Vad24xN1BuM0N6TkROY1pTUmFiQ2dONWh5TlY3SlE=@1.162.51.224:36918#SCP-NSC%2005
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.236.233.136:2198?security=&type=tcp&encryption=none#@bird_Xray
-vless://a01634d7-4070-5586-970e-bdd5e4d17b93@45.89.55.188:8880?security=&type=grpc&serviceName=vless-grpc&encryption=none#@bird_Xray
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTi13c2QyalpPeHZzNTJCQ2tKYnpB@89.23.108.217:5555#@bird_Xray
-hy2://c76f08e20fb6368b@150.241.77.182:11122?obfs=salamander&obfs-password=64da92df31fc63c1&insecure=1&sni=www.google.com#@bird_Xray
-vless://ae2228d1-9b8f-4914-9e0a-68a115f8dbe1@174.138.13.224:15891?security=reality&sni=ftp.debian.org&fp=random&pbk=4FNDHgDP2lnetuRioH6DsE9kMnDyhkJ2NHLMpZgyci0&sid=10f1&type=tcp&encryption=none#@bird_Xray
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.113.156:2198?security=&type=tcp&encryption=none#@bird_Xray
+vless://f6a28dc3-9632-487d-a3f1-ebc19e9726b9@188.114.97.6:443?security=tls&sni=vless.niceai.us.kg&alpn=h3&fp=random&type=ws&path=/?ed%3D2560&host=vless.niceai.us.kg&encryption=none#@Bird_Xray%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#@bird_Xray
 hy2://c76f08e20fb6368b@150.241.77.182:11122?obfs=salamander&obfs-password=64da92df31fc63c1&insecure=1&sni=www.google.com#@bird_Xray
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.124.195:2198?security=&type=tcp&encryption=none#@bird_Xray
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.125.181:2198?security=&type=tcp&encryption=none#@bird_Xray
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@185.234.247.205:2198?security=&type=tcp&encryption=none#@bird_Xray
+vmess://eyJhZGQiOiI0NS4xNDUuMTY3LjEwMyIsImFpZCI6IjAiLCJob3N0IjoiaW5kaWF2aWRlby5zYnMiLCJpZCI6IjQyNWM1ZTZlLTMwYTAtNDk4NC04YTEzLWVlNmY3MjA1MzE2MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4er8J+Ht0ZSLTQ1LjE0NS4xNjcuMTAzLTc2OTgiLCJzY3kiOiJhdXRvIiwic25pIjoiaW5kaWF2aWRlby5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
+hy2://c76f08e20fb6368b@150.241.77.182:11122?obfs=salamander&obfs-password=64da92df31fc63c1&insecure=1&sni=www.google.com#@bird_Xray
