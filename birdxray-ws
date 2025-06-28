@@ -1,9 +1,5 @@
-#profile-title: Tel : @bird_xray🎁 WS/Vless
-#profile-update-interval: 1
 #profile-title: bird_xray
 #profile-update-interval: 1
-
-
 {
   "log": {
     "level": "warn",
